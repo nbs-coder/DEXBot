@@ -7,6 +7,9 @@
 Trading Bot for the New BitShares Decentralized Exchange
 
 
+
+
+
 # Python Library for New BitShares
 
 ---
